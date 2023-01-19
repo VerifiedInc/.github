@@ -18,11 +18,11 @@ List all non-trivial changes included in this PR. Bullet points are fine or the 
 How did you test your changes? How might someone else test them?
 --->
 
-## Checklist:
+## Checklist
 
 - [ ] I have performed a self-review of my code
 - [ ] I have commented my code, particularly in hard-to-understand areas _to a borderline excessive amount_
-- [ ] I have made corresponding changes to the documentation including the project readme.
+- [ ] I have made any relevant corresponding changes to the documentation including the project readme.
 - [ ] I have run and tested the changes locally
 - [ ] If it is a core feature, I have added an appropriate amount of unit tests.
 - [ ] Any dependent changes have been merged and published in upstream modules
