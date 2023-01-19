@@ -25,4 +25,4 @@ How did you test your changes? How might someone else test them?
 - [ ] I have made any relevant corresponding changes to the documentation including the project readme.
 - [ ] I have run and tested the changes locally
 - [ ] If it is a core feature, I have added an appropriate amount of unit tests.
-- [ ] Any dependent changes have been merged and published in upstream modules
+- [ ] Any dependent changes have been merged and published in upstream projects
