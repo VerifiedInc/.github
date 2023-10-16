@@ -1,4 +1,4 @@
-# Verified Inc. (formerly Unum ID)
+# Verified Inc.
 
 **We Are The Verified Network.** Verify once. Be verified everywhere. Powered by digital ID cards.
 
