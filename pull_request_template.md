@@ -1,11 +1,11 @@
-[Ticket](<!-- link to ticket -->)
-<!---
-Link to the Trello ticket for this work. There should _usually_ be a 1:1 relationship between a ticket and a PR, but that won't always be the case, so you may link the same ticket to multiple PRs, or add additional ticket links to this PR. If there is no ticket, you should probably create one and use the "added after sprint planning" label,
---->
-
 ## Summary
 <!---
 1-2 sentences summarizing the changes included in this PR
+--->
+
+[Ticket](<!-- link to ticket -->)
+<!---
+Link to the Trello ticket for this work.
 --->
 
 ## Changes
