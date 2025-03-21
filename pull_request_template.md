@@ -1,4 +1,5 @@
-# Summary
+<!-- trunk-ignore-all(markdownlint/MD041) -->
+## Summary
 <!---
 1-2 sentences summarizing the changes included in this PR
 --->
