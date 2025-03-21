@@ -1,19 +1,14 @@
-<!-- trunk-ignore-all(markdownlint/MD041) -->
-
 ## Summary
-
 <!---
 1-2 sentences summarizing the changes included in this PR
 --->
 
 ## Changes
-
 <!---
 List all non-trivial changes included in this PR. Bullet points are fine or the individual commits that make up this PR.
 --->
 
 ## Testing
-
 <!---
 How did you test your changes? How might someone else test them?
 --->
