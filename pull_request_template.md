@@ -20,9 +20,9 @@ How did you test your changes? How might someone else test them?
 
 ## Checklist
 
-- [ ] I have performed a self-review of my code
+- [ ] I have performed a self-review of my code.
 - [ ] I have commented my code, particularly in hard-to-understand areas _to a borderline excessive amount_
 - [ ] I have made any relevant changes to the documentation, including the project readme.
 - [ ] I have run and tested the changes locally
 - [ ] If it is a core feature, I have added appropriate unit tests.
-- [ ] Any dependent changes have been merged and published in upstream projects
+- [ ] Any dependent changes have been merged and published in upstream projects.
