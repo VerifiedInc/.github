@@ -1,11 +1,6 @@
-## Summary
+# Summary
 <!---
 1-2 sentences summarizing the changes included in this PR
---->
-
-[Ticket](<!-- link to ticket -->)
-<!---
-Link to the Trello ticket for this work.
 --->
 
 ## Changes
